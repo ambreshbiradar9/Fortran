@@ -1,2 +1,2 @@
 # Fortran
-fortran codes for Advanced finite element analysis
+fortran codes for Advanced finite element analysis course
